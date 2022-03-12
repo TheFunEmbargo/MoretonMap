@@ -1,0 +1,53 @@
+[{
+		"type": "Feature",
+		"properties": {
+			"id": 1,
+			"title": "Access to the sastern river from south",
+			"img": "assets\/Area1.jpg",
+			"info": "Access to the eastern river from south.\nThe map shows a widening on the east at and just before the bridge\nstarts. The widened area then hits a boundary on its eastern side.\nA key point is that the river meets the access.\nThere used to be a minor beach t"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.7046302,-2.2772082]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 2,
+			"title": "Access to eastern river from north",
+			"img": "assets\/Area2before.jpg",
+			"info": "As above. Note that the map does not show a fence\/boundary.\nNote that here there was not previously a fence.\nBefore there was a small beach here. The route is now blocked with\nwood\/barbed wire fence."
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.7050701, -2.2764716]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 4,
+			"title": "Access to the woods",
+			"img": "assets\/temp.jpg",
+			"info": "The map shows that there are no barriers preventing access to the woods.\nIn section 4 (including above its river) we see boundaries narrowing.No\nnew fences have been raised over the bridge, it is as it was and quite\nnatural."
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.7050401, -2.2747643]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"id": 5,
+			"title": "Access\/beach on north eastern side",
+			"img": "assets\/temp.jpg",
+			"info": "There is a narrow beach. Access is now somewhat hampered by the new\nfence on the northern face of the road leading to the ford.\nThere is also a rope barrier across the river which may block the\nnorthern end of the beach. The beach is very narrow here but"
+		},
+		"geometry": {
+			"type": "Point",
+			"coordinates": [50.7051265, -2.2774317]
+		}
+	}
+]
