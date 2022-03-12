@@ -26,7 +26,7 @@ var bright = L.tileLayer("https://maps.geoapify.com/v1/tile/osm-bright-smooth/{z
 })
 var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-}).addTo(map);
+})
 var baseMaps = {
     "OS 1886": bright,
     "OSM Basemap": osm
